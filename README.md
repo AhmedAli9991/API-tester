@@ -1,21 +1,3 @@
-<h1 align="center">
-	<a href="https://API-Tester.vercel.app/">
-		API-Tester
-	</a>
-</h1>
-
-<h4 align="center">A simple clone of Postman, a popular API testing tool, built using React. This project aims to provide a user-friendly interface for making API requests, and visualizing responses.</h4>
-
-<p align="center">
-	<a href="https://API-Tester.vercel.app/">Live demo</a>
-	•
-	<a href="https://github.com/kyros-2/API-Tester/archive/refs/heads/main.zip">Download</a>
-</p>
-
-<div align="center">
-	<img src="https://res.cloudinary.com/zakaria-touil-ml/image/upload/v1698764627/API-Tester/pdthkz3jmyluhs0exzma.png" />
-</div>
-
 ## Features
 
 - **Request Builder**: Create and send HTTP requests with various methods (GET, POST, PUT, PATCH, DELETE).
